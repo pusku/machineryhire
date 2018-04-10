@@ -1,0 +1,19 @@
+.content{
+	padding-right: 50px;
+}
+#headerwrap {
+	background-color: #34495e;
+	padding-top: 60px;
+	background-image: url('../img/bg.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+img.listing-image {
+    width: 100%;
+    margin-left: -15px;
+}
+.row.row.listing {
+    background: #f7f7f7;
+    border-bottom: 3px solid;
+    border-top: 3px solid;
+}
